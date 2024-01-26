@@ -1,0 +1,15 @@
+/* FOOD PAGE */
+
+body {
+    background-color: #111;
+}
+
+
+main {
+    background: linear-gradient(0deg, rgba(55,55,107,1) 0%, rgba(211,84,0,1) 100%);
+}
+
+header {
+    background-color: #d35400; 
+    border-radius: 0%;
+}

@@ -1,0 +1,15 @@
+/* TECH PAGE */
+
+body {
+    background-color: #111;
+}
+
+
+main {
+    background: linear-gradient(0deg, rgba(55, 55, 107, 1) 0%, rgba(245, 245, 245, 1) 100%);
+}
+
+header {
+    background-color: #fff;
+    border-radius: 0%;
+}
