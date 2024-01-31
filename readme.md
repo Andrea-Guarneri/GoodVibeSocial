@@ -1,6 +1,6 @@
 # GoodVibeSocial - Study and Practice of HTML/CSS Properties
 
-This project is dedicated to studying and practicing various HTML and CSS properties. Below are explanations of the HTML and CSS code used in this project.
+This project is dedicated to studying and practicing various HTML and CSS properties. Below are explanations of the HTML and CSS code used in this website project.
 
 ## HTML (index.html)
 
