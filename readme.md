@@ -55,3 +55,7 @@ This project is dedicated to studying and practicing various HTML and CSS proper
 ### Sport Page Styling
 - Styles specific elements for the sport page, including post headers and content.
 
+
+## Get Started
+
+You can access the page directly via this link: https://goodvibesocial.netlify.app
