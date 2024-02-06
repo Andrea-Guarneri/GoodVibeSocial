@@ -58,4 +58,6 @@ This project is dedicated to studying and practicing various HTML and CSS proper
 
 ## Get Started
 
+It is recommended to use large screens, to view the pages because the project was not designed for responsiveness on small screens.
+
 You can access the page directly via this link: https://goodvibesocial.netlify.app
